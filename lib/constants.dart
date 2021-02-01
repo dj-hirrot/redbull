@@ -8,7 +8,8 @@ class Constants {
   const Constants();
 
   // Routing name
-  static const String pageStateful = '/stateful';
-  static const String pageInherited = '/inherited';
+  static const String pageList = '/list';
   static const String pageBasic = '/basic';
+  static const String pageInherited = '/inherited';
+  static const String pageStateful = '/stateful';
 }
